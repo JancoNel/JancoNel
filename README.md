@@ -13,8 +13,6 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 - 🤝 Always open for any type of collaboration.
 - 😊 Willing to contribute in opensource projects. 
 - 📫 How to reach me: [Discord](https://discord.gg/23XmvGbPXB)
-- 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
-- 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/pushpenderindia/)
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
