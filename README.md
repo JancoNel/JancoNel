@@ -42,29 +42,3 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 </p>
 
 </details>
-
----
-
-<details open>
- <summary><b>GitHub Stats</b> </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&show_icons=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
-</p>
-
-</details>
-
-
-
-<details open> 
- <summary><b>Famous Repos</b></summary>
- <br> 
-  
-<p align = "center">
-<a href = "https://github.com/PushpenderIndia/thorse"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=thorse" /></a> <a href = "https://github.com/PushpenderIndia/technowlogger"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=technowlogger" /></a> </p>
-
-</details>
-
