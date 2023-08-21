@@ -1,26 +1,15 @@
-![](https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/header.png)
+## Hey there! 👋
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I am Minecraft_killer! </h1>
+I'm [Minecraft_killer], a self-proclaimed chess nerd and programming enthusiast. Here's a snapshot of my coding journey:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;Ethical+Hacker;Programmer;InfoSec+Content+Creator;And+A+Web+Developer)](https://git.io/typing-svg)
+| Main Languages | Learning Languages |
+|:--------------:|:------------------:|
+| ![Python Logo](https://www.python.org/static/img/python-logo.png) Python<br> ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg) JavaScript | ![Rust Logo](https://www.rust-lang.org/logos/rust-logo-256x256.png) Rust<br> ![Lua Logo](https://www.lua.org/images/luaa125.png) Lua |
 
-<p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
+🌐 Currently, I'm venturing into the intriguing worlds of code, constantly learning and growing. If you share the same passions or need a coding companion, don't hesitate to tag me anytime!
 
-I'm a average guy who messes arround in python
+🧠 Remember, all my coding endeavors are purely for educational purposes. Let's learn and explore together!
 
-Decent in Bash Scripting & also Just Love to Make those things which breaks things. 
+🏰 Want to connect? Join me on my Discord server: [Join Now](https://discord.gg/AYqrzv82AZ)
 
-- 🤝 Always open for any type of collaboration.
-- 😊 Willing to contribute in opensource projects. 
-- 📫 How to reach me: [Discord](https://discord.gg/23XmvGbPXB)
-
-<details open>
-<summary>🤝 <b>To connect with me</b></summary>
-
-<p align = "center">
- 
-[<img src = "https://img.shields.io/badge/youtube-Minecraft_killer-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@Minecraft_killer/)
-
-</p>
-
-</details>
+Looking forward to sharing knowledge and experiences with fellow enthusiasts!
