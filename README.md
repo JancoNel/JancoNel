@@ -22,8 +22,6 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 <p align = "center">
  
 [<img src = "https://img.shields.io/badge/youtube-Cyber%20Academy-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@Minecraft_killer/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@PushpenderIndia)
- [<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/pushpenderindia)
 
 </p>
 
