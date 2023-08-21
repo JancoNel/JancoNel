@@ -17,16 +17,6 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/pushpenderindia/)
 
 <details open>
-<summary>🔴<b> Live YouTube Channel Stats</b> (Automatically Updates Every 60 seconds)</summary>
- 
-- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/@Minecraft_killer/)
- 
-- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fviews">](https://www.youtube.com/@Minecraft_killer/)
- 
-- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fvideos">](https://www.youtube.com/@Minecraft_killer/)
-</details>
-
-<details open>
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
