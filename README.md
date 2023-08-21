@@ -21,7 +21,7 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 
 <p align = "center">
  
-[<img src = "https://img.shields.io/badge/youtube-Cyber%20Academy-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@Minecraft_killer/)
+[<img src = "https://img.shields.io/badge/youtube-Minecraft_killer-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@Minecraft_killer/)
 
 </p>
 
