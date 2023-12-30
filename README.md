@@ -4,8 +4,8 @@ I'm Minecraft_killer, a self-proclaimed chess nerd and programming enthusiast. H
 
 | Main Languages | Learning Languages |
 |:--------------:|:------------------:|
-| Python         | JavaScript         |
-| Rust           | Lua                |
+| Python         | Rust               |
+| JavaScript     | Lua                |
 
 🌐 Currently, I'm venturing into the intriguing worlds of code, constantly learning and growing. If you share the same passions or need a coding companion, don't hesitate to tag me anytime!
 
