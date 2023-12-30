@@ -14,5 +14,3 @@ I'm Minecraft_killer, a self-proclaimed chess nerd and programming enthusiast. H
 🏰 Want to connect? Join me on my Discord server: [Join Now](https://discord.gg/AYqrzv82AZ)
 
 Looking forward to sharing knowledge and experiences with fellow enthusiasts!
-
-[![Top Langs](https://git-stats-one-lake.vercel.app/api/top-langs/?username=Minecraft_killer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
