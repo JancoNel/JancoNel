@@ -8,7 +8,7 @@ I'm Minecraft_killer, a self-proclaimed chess nerd and programming enthusiast. H
 | JavaScript     | Delphi             |
 | Lua            | Golang             |
 
-🌐 Currently, I'm venturing into the intriguing worlds of code, constantly learning and growing. If you share the same passions or need a coding companion, don't hesitate to tag me anytime!
+🌐 Currently, I'm venturing into the intriguing worlds of code, constantly learning and growing. If you share the same passions or need a coding companion, don't hesitate to contact me anytime!
 
 🧠 Remember, all my coding endeavors are purely for educational purposes. Let's learn and explore together!
 
