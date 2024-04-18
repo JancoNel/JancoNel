@@ -2,7 +2,7 @@
 
 I'm Minecraft_killer, a self-proclaimed chess nerd and programming enthusiast. Here's a snapshot of my coding journey:
 
-| Main Languages | Learning Languages |
+| Languages      | Learning Languages |
 |:--------------:|:------------------:|
 | Python         | Rust               |
 | JavaScript     | Delphi             |
