@@ -23,4 +23,4 @@
   <img src="https://profile-counter.glitch.me/_JancoNel/count.svg" alt="Visitor count" />
 </p>
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/Janco)
+[![Spotify](https://novatorem-black-omega.vercel.app/api/spotify)](https://open.spotify.com/user/31nncagvjsr6eno224tn3j7zfgzm)
