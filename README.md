@@ -30,7 +30,3 @@
 </p>
 
 [![Spotify](https://novatorem-black-omega.vercel.app/api/spotify)](https://open.spotify.com/user/31nncagvjsr6eno224tn3j7zfgzm)
-
-
-
-Feel free to check out my projects, contributions, and stats. Happy coding! 🚀
