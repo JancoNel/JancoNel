@@ -5,7 +5,7 @@
     <img height=200 src="https://my-stats-43gk.vercel.app/api?username=JancoNel&show_icons=true&theme=radical&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
   </a>
   <a href="#">
-    <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=JancoNel&langs_count=8&layout=compact&theme=radical&card_width=150" />
+    <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=JancoNel&langs_count=8&layout=compact&theme=radical&card_width=150](https://github-readme-stats.vercel.app/api/top-langs/?username=JancoNel&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss" />
   </a>
 </p>
 
