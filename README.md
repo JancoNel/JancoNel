@@ -40,14 +40,6 @@ I like building things that shouldn't exist, and making them look clean.
 
 ---
 
-## 📈 Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/_JancoNel/count.svg" alt="Visitor count" />
-</p>
-
----
-
 ## 🎧 Now Playing
 
 [![Spotify](https://novatorem-black-omega.vercel.app/api/spotify)](https://open.spotify.com/user/31nncagvjsr6eno224tn3j7zfgzm)
