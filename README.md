@@ -13,7 +13,7 @@
 
 ## 💻 About Me
 
-Security-oriented full-stack developer who designs stealth tools, automation workflows, and systems that scale.  
+Security and finance-oriented full-stack developer who designs stealth tools, automation workflows, and systems that scale.  
 I like building things that shouldn't exist, and making them look clean.
 
 🔒 Interested in cybersecurity, infra-level automation, and making sandboxes cry.  
