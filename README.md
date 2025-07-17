@@ -1,4 +1,4 @@
-# 🧠 Janco Nel — One line at a time
+# Janco Nel — One line at a time
 
 <p align="center">
   <a href="https://janco.is-a.dev">
