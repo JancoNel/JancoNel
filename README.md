@@ -1,4 +1,4 @@
-# Janco Nel — One line at a time
+# Janco Nel
 
 <p align="center">
   <a href="https://janco.is-a.dev">
@@ -13,15 +13,6 @@
 
 ## 💻 About Me
 
-Security and finance-oriented full-stack developer who designs stealth tools, automation workflows, and systems that scale.  
-I like building things that shouldn't exist, and making them look clean.
-
-🔒 Interested in cybersecurity, infra-level automation, and making sandboxes cry.  
-🎯 Currently working on projects involving system hardening, C2 design, and digital forensics.
-
-> "One line at a time." – a lifestyle, not just a coding motto.
-
----
 
 ## 📊 GitHub Activity
 
